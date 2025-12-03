@@ -1,7 +1,7 @@
 <!-- Banner image (replace with your own banner if available) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1050&q=80" width="100%" alt="Banner"/>
-</p>
+</p> -->
 
 <h2 align="center">Hi 👋, I'm Nikita Kumari!</h2>
 <h4 align="center">A Passionate Full-Stack Developer | Explorer | Lifelong Learner</h4>

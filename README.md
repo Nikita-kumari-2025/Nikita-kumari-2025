@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi👋 Myself Nikita Kumari
+## I am a Full-Stack-Developer passionate about creating efficient and user-friendly web applications. I have experience in both front-end and back-end development, and I am always eager to learn new technologies and best practices in the field.
 
 <!--
 **Nikita-kumari-2025/Nikita-kumari-2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

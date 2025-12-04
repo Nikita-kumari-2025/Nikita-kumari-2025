@@ -41,7 +41,7 @@ I am a Full-Stack Developer passionate about creating efficient and user-friendl
   <a href="https://github.com/Nikita-kumari-2025/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita-kumari-2025&repo=project1&theme=radical" alt="Project 1"/>
   </a>
-  <a href="https://github.com/Nikita-kumari-2025/project2">
+  <a href="https://v0-personal-portfolio-website-pi-jade.vercel.app/">
     <img src="https://v0-personal-portfolio-website-pi-jade.vercel.app/" alt="Project 2"/>
   </a>
 </p>

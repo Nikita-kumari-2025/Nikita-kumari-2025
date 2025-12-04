@@ -3,8 +3,8 @@
   <img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1050&q=80" width="100%" alt="Banner"/>
 </p> -->
 
-<h2 align="center">Hi 👋, I'm Nikita Kumari!</h2>
-<h4 align="center">A Passionate Full-Stack Developer | Explorer | Lifelong Learner</h4>
+<h1 align="center">Hi 👋, I'm Nikita Kumari!</h1>
+<h3 align="center">A Passionate Full-Stack Developer | Explorer | Lifelong Learner</h3>
 
 ---
 
@@ -19,7 +19,7 @@ I am a Full-Stack Developer passionate about creating efficient and user-friendl
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,django,java,spring,mongodb,mysql,postgres,html,css,sass,git,github,aws,figma&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,django,java,spring,mongodb,mysql,postgres,html,css,javascript,sass,git,github,aws,&perline=8" alt="Tech Stack"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@ I am a Full-Stack Developer passionate about creating efficient and user-friendl
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita-kumari-2025&repo=project1&theme=radical" alt="Project 1"/>
   </a>
   <a href="https://github.com/Nikita-kumari-2025/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikita-kumari-2025&repo=project2&theme=radical" alt="Project 2"/>
+    <img src="https://v0-personal-portfolio-website-pi-jade.vercel.app/" alt="Project 2"/>
   </a>
 </p>
 

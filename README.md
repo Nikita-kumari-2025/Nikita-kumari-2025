@@ -48,7 +48,7 @@ I am a Full-Stack Developer passionate about creating efficient and user-friendl
 
 <!-- Add project descriptions -->
 - 🛒 **[E-Commerce Platform](https://github.com/Nikita-kumari-2025/project1):** A fully featured MERN-stack application with authentication, payments, and admin dashboard.
-- 🎨 **[Portfolio Website](https://github.com/Nikita-kumari-2025/project2):** My personal site showcasing projects, resume, and technical blogs.
+- 🎨 **[Portfolio Website](https://v0-personal-portfolio-website-pi-jade.vercel.app/):** My personal site showcasing projects, resume, and technical blogs.
 
 ---
 

@@ -66,7 +66,7 @@ I am a Full-Stack Developer passionate about creating efficient and user-friendl
 
 - 🌟 **Hackathon Winner** @ WomenInTech 2024
 - 🥇 **Top Contributor** @ Open-Source Fest 2025
-- 🏅 Certified AWS Cloud Practitioner
+- 🏅 Front-end web developer @ Infosys Springboard
 
 ---
 
@@ -74,7 +74,7 @@ I am a Full-Stack Developer passionate about creating efficient and user-friendl
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita-kumari"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:nikita.kumari.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
+  <a href="mailto:nikitakumari1aug@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
   <a href="https://twitter.com/nikitakumari"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
 </p>
 

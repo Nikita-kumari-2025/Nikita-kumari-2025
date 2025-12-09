@@ -52,19 +52,11 @@ I am a Full-Stack Developer passionate about creating efficient and user-friendl
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikita-kumari-2025&show_icons=true&theme=dracula" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nikita-kumari-2025&theme=dracula" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-kumari-2025&layout=compact&theme=react" width="47%">
-</p>
-
----
 
 ## 🏆 Achievements
 
-- 🌟 **Hackathon Winner** @ WomenInTech 2024
+- 🌟 **Participant** @ Smart India Hackathon 2023
 - 🥇 **Top Contributor** @ Open-Source Fest 2025
 - 🏅 Front-end web developer @ Infosys Springboard
 

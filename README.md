@@ -19,7 +19,7 @@ I am a Full-Stack Developer passionate about creating efficient and user-friendl
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,django,java,spring,mongodb,mysql,postgres,html,css,javascript,sass,git,github,aws,&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,java,spring,mongodb,mysql,postgres,html,css,javascript,sass,git,github,&perline=8" alt="Tech Stack"/>
 </p>
 
 ---
